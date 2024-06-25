@@ -1,6 +1,6 @@
 import React from 'react';
 import Slider from 'react-slick';
-import { FaHome, FaRegStar, FaMountain, FaSwimmer, FaTree, FaUmbrellaBeach, FaUtensils, FaCity } from 'react-icons/fa';
+import {  FaMountain, FaSwimmer, FaTree, FaUmbrellaBeach, FaUtensils } from 'react-icons/fa';
 import { BsTicket } from "react-icons/bs";
 import { GiIsland, GiCampingTent } from "react-icons/gi";
 import './Iconairbnb.css';

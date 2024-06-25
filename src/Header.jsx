@@ -1,6 +1,6 @@
 import React from 'react';
 import './Header.css';
-import { FaSearch, FaUserCircle, FaBars, FaGlobe } from 'react-icons/fa';
+import { FaUserCircle, FaBars, FaGlobe } from 'react-icons/fa';
 
 const Header = () => {
   return (
