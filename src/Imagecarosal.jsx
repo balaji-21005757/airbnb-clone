@@ -2,18 +2,18 @@ import React from 'react';
 import styled from 'styled-components';
 
 const imagesData = [
-  { src: '/photo/image1.jpg', title: 'Make core memories with Inside Out 2', subtitle: 'Hosted by Joy', status: 'Booking closed' },
-  { src: '/photo/image2.jpg', title: "Stay in Prince's Purple Rain house", subtitle: 'Hosted by Wendy and Lisa', status: 'Coming August' },
-  { src: '/photo/image3.jpg', title: 'Go VIP with Kevin Hart', subtitle: 'Hosted by Kevin Hart', status: 'Coming August' },
-  { src: '/photo/image4.jpg', title: 'Join a living room session with Doja', subtitle: 'Hosted by Doja Cat', status: 'Coming October' },
-  { src: '/photo/5.jpg', title: 'Make core memories with Inside Out 2', subtitle: 'Hosted by Joy', status: 'Booking closed' },
-  { src: '/photo/6.jpg', title: "Stay in Prince's Purple Rain house", subtitle: 'Hosted by Wendy and Lisa', status: 'Coming August' },
-  { src: '/photo/7.jpg', title: 'Go VIP with Kevin Hart', subtitle: 'Hosted by Kevin Hart', status: 'Coming August' },
-  { src: '/photo/8.jpg', title: 'Join a living room session with Doja', subtitle: 'Hosted by Doja Cat', status: 'Coming October' },
-  { src: '/photo/9.jpg', title: 'Make core memories with Inside Out 2', subtitle: 'Hosted by Joy', status: 'Booking closed' },
-  { src: '/photo/10.jpg', title: "Stay in Prince's Purple Rain house", subtitle: 'Hosted by Wendy and Lisa', status: 'Coming August' },
-  { src: '/photo/11.jpg', title: 'Go VIP with Kevin Hart', subtitle: 'Hosted by Kevin Hart', status: 'Coming August' },
-  { src: '/photo/12.jpg', title: 'Join a living room session with Doja', subtitle: 'Hosted by Doja Cat', status: 'Coming October' },
+  { src: '/photo/image1.jpg', title: 'Tropical Haven Resort', subtitle: 'Booking Price: $200 per night', status: 'Opening Timings: 8:00 AM - 10:00 PM' },
+  { src: '/photo/image2.jpg', title: "Serenity Bay Resort", subtitle: 'Booking Price: $250 per night', status: 'Opening Timings: 7:00 AM - 11:00 PM' },
+  { src: '/photo/image3.jpg', title: 'Sunset Paradise Resort', subtitle: 'Booking Price: $220 per night', status: 'Opening Timings: 9:00 AM - 10:00 PM' },
+  { src: '/photo/image4.jpg', title: 'Golden Sands Resort', subtitle: 'Booking Price: $230 per night', status: 'Opening Timings: 9:00 AM - 11:00 PM' },
+  { src: '/photo/5.jpg', title: 'Ocean View Resort', subtitle: 'Booking Price: $270 per night', status: 'Opening Timings: 7:30 AM - 10:30 PM' },
+  { src: '/photo/6.jpg', title: "Mountain Breeze Retreat", subtitle: 'Booking Price: $180 per night', status: 'Opening Timings: 8:00 AM - 9:00 PM' },
+  { src: '/photo/7.jpg', title: 'Lakeside Tranquility Resort', subtitle: 'Booking Price: $240 per night', status: 'Opening Timings: 8:00 AM - 11:00 PM' },
+  { src: '/photo/8.jpg', title: 'Whispering Pines Resort', subtitle: 'Booking Price: $210 per night', status: 'Opening Timings: 8:30 AM - 9:30 PM' },
+  { src: '/photo/9.jpg', title: 'Frosty Peaks Retreat', subtitle: 'Booking Price: $260 per night', status: 'Opening Timings: 8:00 AM - 9:00 PM' },
+  { src: '/photo/10.jpg', title: "Azure Waves Resort", subtitle: 'Booking Price: $250 per night', status: 'Opening Timings: 7:00 AM - 10:00 PM' },
+  { src: '/photo/11.jpg', title: 'Seabreeze Cove Resort', subtitle: 'Booking Price: $230 per night', status: 'Opening Timings: 9:00 AM - 11:00 PM' },
+  { src: '/photo/12.jpg', title: 'Coral Reef Resort', subtitle: 'Booking Price: $240 per night', status: 'Opening Timings: 8:00 AM - 9:00 PM' },
   
 ];
 
