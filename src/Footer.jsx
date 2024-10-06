@@ -57,7 +57,7 @@ const Footer = () => {
         <div className="footer-bottom-info">
           <p>© 2024 Airbnb, Inc. · Privacy · Terms · Sitemap · Company details</p>
           <div className="footer-bottom-social">
-            <span>🌐 English (IN)</span>
+            <span>🌐 English (US)</span>
             <span>₹ INR</span>
             <span>🌐 Facebook</span>
             <span>🌐 Twitter</span>
